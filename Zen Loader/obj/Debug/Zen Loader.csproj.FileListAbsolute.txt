@@ -1,0 +1,10 @@
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\bin\Debug\Zen Loader.exe.config
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\bin\Debug\Zen Loader.exe
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\bin\Debug\ygeR.Core.dll
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\obj\Debug\Zen Loader.csproj.AssemblyReference.cache
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\obj\Debug\Zen_Loader.Form5.resources
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\obj\Debug\Zen_Loader.Properties.Resources.resources
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\obj\Debug\Zen Loader.csproj.GenerateResource.cache
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\obj\Debug\Zen Loader.csproj.CoreCompileInputs.cache
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\obj\Debug\Zen Loader.csproj.Up2Date
+C:\Users\ygeR\Desktop\New folder\loaderSourceCode\Zen Loader\obj\Debug\Zen Loader.exe

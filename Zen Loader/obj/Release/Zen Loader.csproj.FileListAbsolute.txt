@@ -1,0 +1,23 @@
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\bin\Release\Zen Loader.exe.config
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\bin\Release\Zen Loader.exe
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\bin\Release\Zen Loader.pdb
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\bin\Release\NAudio.dll
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\bin\Release\ygeR.Core.dll
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\bin\Release\ygeR.Core.pdb
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\obj\Release\Zen_Loader.Form5.resources
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\obj\Release\Zen_Loader.Properties.Resources.resources
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\obj\Release\Zen Loader.csproj.GenerateResource.Cache
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\obj\Release\Zen Loader.exe
+C:\Users\Yigit ERZIN\Desktop\New folder (3)\loaderSourceCode\loaderSourceCode\Zen Loader\obj\Release\Zen Loader.pdb
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\bin\Release\Zen Loader.exe.config
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\obj\Release\Zen Loader.exe
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\obj\Release\Zen Loader.pdb
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\bin\Release\Zen Loader.exe
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\bin\Release\Zen Loader.pdb
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\bin\Release\NAudio.dll
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\bin\Release\ygeR.Core.dll
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\bin\Release\ygeR.Core.pdb
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\obj\Release\Zen Loader.csprojResolveAssemblyReference.cache
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\obj\Release\Zen_Loader.Form5.resources
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\obj\Release\Zen_Loader.Properties.Resources.resources
+C:\Users\Yigit ERZIN\Desktop\loaderSourceCode\Zen Loader\obj\Release\Zen Loader.csproj.GenerateResource.Cache
