@@ -1,6 +1,7 @@
 ZenLoader
 
 ZenLoader is a security and automation utility designed to protect systems from specific malicious domains. It operates by intercepting requests at the operating system level using the hosts file, effectively preventing applications (such as ZenAutobot) from reaching potentially harmful remote servers.
+
 🚀 Key Features
 
     Automated Domain Blocking: Automatically appends known malicious domains and IP addresses to the system hosts file, redirecting them to 0.0.0.0.
@@ -14,6 +15,7 @@ ZenLoader is a security and automation utility designed to protect systems from 
     Version Verification: Uses MD5 hash validation to ensure compatibility with specific supported executable versions (v5.2, v5.3, and v5.8).
 
     Persistence & Logging: Maintains a rolling log buffer (up to 2000 lines) and saves session logs to the local AppData folder for troubleshooting.
+    
 
 🛡️ Security Logic
 
